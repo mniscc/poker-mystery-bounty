@@ -1,0 +1,4 @@
+interface:
+  display_name: "神秘赏金赛分析"
+  short_description: "从赛事截图估算剩余宝箱价值、筹码和大盲，并提供桌况策略。"
+  default_prompt: "使用 $poker-mystery-bounty 分析我上传的神秘赏金赛截图，估算平均宝箱相当于多少筹码和大盲，并结合桌况给出策略建议。"
